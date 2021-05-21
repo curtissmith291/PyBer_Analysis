@@ -27,4 +27,4 @@ Recomendations addressing disparities between the city types are presented below
 2) Though additional analysis is necessary, the average fare per driver in Rural cities is relatively high. While longer drive times could explain the higher average, lower supply of drivers could increase rates; if the demand for drivers is higher than supply, consider increasing the percentage earned by the driver to incentivize more drivers to join PyBer. 
 3) Extending the graph to include the the end of the data (the week of 12 May 2019), shows a drastic decline in total fares in every city type; additinoal analysis is necessary to determine the cause. The graph is included below. 
 
-![Pyber Total Fare by City Type (Expanded Dates)](https://github.com/curtissmith291/PyBer_Analysis/blob/main/analysis/pyber_summary_df.png)
+![Pyber Total Fare by City Type (Expanded Dates)](https://github.com/curtissmith291/PyBer_Analysis/blob/main/analysis/Pyber_fare_summary_all.png)
